@@ -41,7 +41,7 @@ body {
   transition: 0.6s;
   padding-bottom: 20px;
   margin:10px ;
-  background-color: #ddd;
+  background-color: #FFFBF0;
   border-radius: 10px;
 }
 .single-product:hover {
@@ -91,7 +91,7 @@ body {
 }
 /* my cart */
 #my-cart{
-  background: #f5f6fa;
+  background: #FFFBF0;
 }
 
 /* icon */
